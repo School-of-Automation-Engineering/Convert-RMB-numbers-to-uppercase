@@ -3,7 +3,7 @@
 一个方便的IP计算器，只需输入IP地址即可算出该IP的掩码、前缀、判断几类网段。更多功能请进入 [LiveDemo](https://school-of-automation-engineering.github.io/IP-calculator/source/index.html) 使用后方可得知。  
 ***  
 **人民币数字转大写构想：**  
-<img src="人民币数字转大写构想.png">
+<img src="https://school-of-automation-engineering.github.io/IP-calculator/img/人民币数字转大写构想.png">
 
 **人民币数字转大写:**
 <img src="img/人民币数字转大写交互图.png"> 

@@ -3,10 +3,10 @@
 一个方便的IP计算器，只需输入IP地址即可算出该IP的掩码、前缀、判断几类网段。更多功能请进入 [LiveDemo](https://school-of-automation-engineering.github.io/Convert-RMB-numbers-to-uppercase/index.html) 使用后方可得知。  
 ***  
 **人民币数字转大写构想：**  
-<img src="https://school-of-automation-engineering.github.io/IP-calculator/img/1.png">
+<img src="https://school-of-automation-engineering.github.io/Convert-RMB-numbers-to-uppercase/img/1.png">
 
 **人民币数字转大写:**
-<img src="https://school-of-automation-engineering.github.io/IP-calculator/img/2.png"> 
+<img src="https://school-of-automation-engineering.github.io/Convert-RMB-numbers-to-uppercase/img/2.png"> 
 
 **项目贡献者:**  
 [Mason](https://github.com/mason369)
